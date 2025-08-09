@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FSAD-S201/static/css/main.5b225343.css",
-    "main.js": "/FSAD-S201/static/js/main.347db620.js",
+    "main.js": "/FSAD-S201/static/js/main.22131908.js",
     "static/js/453.96453769.chunk.js": "/FSAD-S201/static/js/453.96453769.chunk.js",
-    "static/media/logo.png": "/FSAD-S201/static/media/logo.c76697ae58e9439a37d8.png",
+    "static/media/logo.svg": "/FSAD-S201/static/media/logo.0bb80b8b9b816978d9b33261bd3b3c0b.svg",
     "index.html": "/FSAD-S201/index.html",
     "main.5b225343.css.map": "/FSAD-S201/static/css/main.5b225343.css.map",
-    "main.347db620.js.map": "/FSAD-S201/static/js/main.347db620.js.map",
+    "main.22131908.js.map": "/FSAD-S201/static/js/main.22131908.js.map",
     "453.96453769.chunk.js.map": "/FSAD-S201/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b225343.css",
-    "static/js/main.347db620.js"
+    "static/js/main.22131908.js"
   ]
 }
